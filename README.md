@@ -18,7 +18,7 @@ https://i.imgur.com/S2RiACf.png
 
 
 todo->
-* other thoughts a screensaver which would use hardened "rorscach models"
+* other thoughts a screensaver which would use hardened "rorschach models"
 
 
 
