@@ -12,7 +12,6 @@ IBM could be back with avengeance
 
 
 
-https://i.imgur.com/S2RiACf.png
 
 
 
