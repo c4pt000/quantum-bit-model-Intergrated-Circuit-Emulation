@@ -1,9 +1,10 @@
 # quantum-go-quantum-bit-model
 quantum go model qbit model
 
+todo -> to refine this idea, was just drawn quickly,
+( a thought model for the standard computing "die" to show the states of on/off at the same time , on/on, off/off, and the superposition to model quantum computing through standard over the counter electronics using opto-isolators and mosfets, to retain the position of ON and OFF at the same time as the Qubit model allows)
 
 
-1QGrV5B2MANeEygq9DmHu899F6NBsTnq7d
 
 
 IBM could be back with avengeance
@@ -14,7 +15,10 @@ IBM could be back with avengeance
 https://i.imgur.com/S2RiACf.png
 
 
-quantum-go-compute-model-other-model 1 of 3 rorscach -dangerous- a new kind of science QR model bitcoin black / white stacked dangerous model, not able to test to debug safety safely with buffer not direct visual.png
+
+
+todo->
+* other thoughts a screensaver which would use hardened "rorscach models"
 
 
 
@@ -24,8 +28,5 @@ quantum-go-compute-model-other-model 1 of 3 rorscach -dangerous- a new kind of s
 
 
 
-
-
+.
 09-10-2018
-other address could be compromised just residing on blockchain, but they seem to have good security, personal wallet receiving address
-1A8MCcc7wsqp8xhhyW7WnkTogriPzDJYBw
