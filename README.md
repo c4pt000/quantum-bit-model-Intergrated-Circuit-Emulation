@@ -30,3 +30,6 @@ todo->
 
 .
 09-10-2018
+
+
+see QR code improvement in my repos for other insanity,
