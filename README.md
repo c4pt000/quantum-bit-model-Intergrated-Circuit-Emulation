@@ -7,28 +7,4 @@ todo -> to refine this idea, was just drawn quickly,
 
 
 
-IBM could be back with avengeance
-
-
-
-
-
-
-
-
-todo->
-* other thoughts a screensaver which would use hardened "rorschach models"
-
-
-
-
-
-
-
-
-
-.
-09-10-2018
-
-
-see QR code improvement in my repos for other insanity,
+I
