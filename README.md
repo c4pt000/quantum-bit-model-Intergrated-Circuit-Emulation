@@ -1,4 +1,4 @@
-# quantum-go-quantum-bit-model
+# quantum-bit-model
 quantum go model qbit model
 
 todo -> to refine this idea, was just drawn quickly,
