@@ -8,7 +8,8 @@ other thoughts at the IC die level, outside of representation for the game of Go
 IC die level images from https://nptel.ac.in/courses/113106062/Lec32.pdf
 
 
-maybe through other refinement, current quantum computer processors similar to google's quantum cpu, could be modeled directly in software similar to QEMU being able to emulate a fully functioning intel core 2 duo,
+maybe through other refinement, current quantum computer processors similar to google's quantum cpu (QPU)
+https://ti.arc.nasa.gov/news/Quantum-record-HECC-nodes/, could be modeled directly in software similar to QEMU being able to emulate a fully functioning intel core 2 duo,
 
 nothing prevents a software emulation model like QEMU from emulating a quantum cpu,
 
