@@ -8,6 +8,10 @@ other thoughts at the IC die level, outside of representation for the game of Go
 IC die level images from https://nptel.ac.in/courses/113106062/Lec32.pdf
 
 
+maybe through other refinement, current quantum computer processors similar to google's quantum cpu, could be modeled directly in software similar to QEMU being able to emulate a fully functioning intel core 2 duo,
 
+nothing prevents a software emulation model like QEMU from emulating a quantum cpu,
 
-I
+at a basic level beyond basic logic gates AND, XOR, NAND gates,
+
+quantum functions can / could be represented by on and off at the same time as 1 and 0 in symbolic logic, similar to binary on (1) and off (0) (referencing a qubit in the state of a quantum super position)
