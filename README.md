@@ -17,3 +17,14 @@ nothing prevents a software emulation model like QEMU from emulating a quantum c
 at a basic level beyond basic logic gates AND, XOR, NAND gates,
 
 quantum functions can / could be represented by on and off at the same time as 1 and 0 in symbolic logic, similar to binary on (1) and off (0) (referencing a qubit in the state of a quantum super position)
+
+
+donate via google pay
+
+bc1q7ap44v0e8tz506fqvdygd7zztluvrl73pd527q
+
+or 
+
+if you found this useful,
+
+https://www.binance.com/userCenter/deposit.html      << for bitcoin mc/visa
