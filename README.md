@@ -19,12 +19,8 @@ at a basic level beyond basic logic gates AND, XOR, NAND gates,
 quantum functions can / could be represented by on and off at the same time as 1 and 0 in symbolic logic, similar to binary on (1) and off (0) (referencing a qubit in the state of a quantum super position)
 
 
-donate via google pay
 
-bc1q7ap44v0e8tz506fqvdygd7zztluvrl73pd527q
+https://www.binance.com/en/buy-sell-crypto/channel-list/buy/USD/BTC/10
 
-or 
 
-if you found this useful,
-
-https://www.binance.com/userCenter/deposit.html      << for bitcoin mc/visa
+on average its $5.00 USD to transmit bitcoin on most websites dealing with bitcoin 
