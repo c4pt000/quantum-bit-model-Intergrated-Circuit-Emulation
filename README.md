@@ -5,7 +5,7 @@ todo -> to refine this idea, was just drawn quickly,
 ( a thought model for the standard computing "die" to show the states of on/off at the same time , on/on, off/off, and the superposition to model quantum computing through standard over the counter electronics using opto-isolators and mosfets, to retain the position of ON and OFF at the same time as the Qubit model allows)
 
 
-# google should, model sycamore google's quantum cpu for KVM or intel horse ridge
+# google should, model sycamore google's quantum cpu for KVM or intel should model horse ridge for a virtualized KVM QPU model
 
 https://newsroom.intel.com/news/intel-introduces-horse-ridge-enable-commercially-viable-quantum-computers/#gs.pz5suw
 
