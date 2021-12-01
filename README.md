@@ -21,3 +21,4 @@ quantum functions can / could be represented by on and off at the same time as 1
 
 
 https://youtu.be/dXCGYqmkOwg
+![s1](https://github.com/c4pt000/quantum-bit-model-Intergrated-Circuit-Emulation/releases/download/12-01-2021-stanford-mention/Stanford-12-01-2021-mention-photonic.gif)
