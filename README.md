@@ -20,3 +20,4 @@ quantum functions can / could be represented by on and off at the same time as 1
 
 
 
+https://youtu.be/dXCGYqmkOwg
