@@ -1,5 +1,15 @@
 <p>
 
+this is my research paper I wrote while attending CCP in Philadelphia for engineering in 2014
+
+what a long strange trip it's been and continuing to be...
+
+currently homeless on and off the last 2 years
+01-20-2022
+
+
+
+
 David Weinberg
 ENG 102
 12-1-2014
