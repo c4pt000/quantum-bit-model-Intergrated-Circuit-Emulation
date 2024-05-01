@@ -9,8 +9,8 @@ quantum go model qbit model
 
 
 # update 04-30-2024
-https://www.discovermagazine.com/technology/the-usd1-billion-bet-on-quantum-computers-that-process-light
 
+https://www.discovermagazine.com/technology/the-usd1-billion-bet-on-quantum-computers-that-process-light
 
 
 todo -> to refine this idea, was just drawn quickly,
