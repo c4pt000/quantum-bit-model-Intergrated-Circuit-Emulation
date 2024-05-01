@@ -9,7 +9,7 @@ quantum go model qbit model
 
 
 # update 04-30-2024
-* PsiQuantum wants to make quantum computers in the same way as microchips are made today. So how is it doing?
+# PsiQuantum wants to make quantum computers in the same way as microchips are made today. So how is it doing?
 # https://arxiv.org/html/2404.17570v1
 
 
